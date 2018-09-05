@@ -34,6 +34,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Angular (>=4)
 * Testes de software
 * HTML5/CSS3
+* Bootstrap
 * Pré-processadores (Sass, Less, Stylus)
 * Responsive Design
 * jQuery
