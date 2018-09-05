@@ -1,4 +1,4 @@
-# Rogerio Alves Sobrinho (currículo)
+# Rogerio Alves Sobrinho
 
 Local: São Paulo - SP - Brasil | Idade: 23 anos
 
@@ -17,24 +17,27 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 ## Conhecimentos
 
-* JavaScript
-* C#
-* Java
-* React 
+* JavaScript (ES5 e ES6)
+* C# (Foco em .NET Core)
+* Java 8
+* React + Redux
 * Angular (>=4)
+* Express
 * HTML
 * CSS (LESS)
-* MySQL
-* MS SQL Server
-* Sistemas de controle de versão (git, svn)
-* Testes automatizados (bdd, tdd)
+* MySQL (MariaDB)
+* MSSQL Server
+* Gestores de Pacotes (Yarn e NPM)
+* Sistemas de controle de versão (Git, SVN)
+* Testes automatizados (BDD, TDD)
 * Desenvolvimento Ágil
 * Performance web
-* Inglês suficiente para ler e entender.
-* Application Servers (Tomcat, Jboss e IIS);
-* Ambiente Linux;
-* Selenium
+* Inglês suficiente para ler e entender
+* Application Servers (Tomcat, Jboss e IIS)
+* Ambiente Linux
+* Selenium (C#)
 * SpecFlow
+
 
 ## Experiência Profissional 
 
