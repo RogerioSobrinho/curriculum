@@ -16,27 +16,62 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 ## Conhecimentos
 
-* JavaScript (ES5 e ES6)
+**BackEnd:**
 * C# (Foco em .NET Core)
-* Java 8
-* React + Redux
-* Angular (>=4)
+* JavaScript (ES5 e ES6)
+* NodeJS
 * Express
-* HTML
-* CSS (LESS)
-* MySQL (MariaDB)
-* MSSQL Server
-* Gestores de Pacotes (Yarn e NPM)
-* Sistemas de controle de versão (Git, SVN)
-* Testes automatizados (BDD, TDD)
-* Desenvolvimento Ágil
-* Performance web
-* Inglês suficiente para ler e entender
-* Application Servers (Tomcat, Jboss e IIS)
-* Ambiente Linux
+* Java 8
+* Programação Orientada à Objeto
+* Testes de software (TDD)
+
+**FrontEnd:**
+* JavaScript (ES5 e ES6)
+* ReactJS
+* React Native
+* Redux
+* Webpack
+* Angular (>=4)
+* Testes de software
+* HTML5/CSS3
+* Pré-processadores (Sass, Less, Stylus)
+* Responsive Design
+* Automatizadores (Grunt, Gulp)
+* jQuery
 * Selenium (C#)
 * SpecFlow
+* Performance web
 
+**Banco de Dados:**
+* MySQL (MariaDB)
+* MSSQL Server
+* MongoDB
+
+**Infra**
+* Apache/Nginx
+* Docker
+* Heroku
+* Tomcat
+* Jboss 
+* IIS
+* Ambiente Linux
+
+**Idiomas**
+* Inglês suficiente para ler e entender
+
+**Outros:**
+* Padrões de Projeto *(Modelo MVC)*
+* Sistema de Controle de versão *(Git, SVN)*
+* Conhecimento em SEO
+* Conhecimento em Design e Arquitetura de Software
+* Base de UX/UI.
+* Scrum
+* Kanban
+* Gestores de Pacotes (Yarn e NPM)
+
+**Experiências em outras linguagens:**
+* Pequenos projetos com Ruby
+* Pequenos projetos com Python
 
 ## Experiência Profissional 
 
