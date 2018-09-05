@@ -1,7 +1,5 @@
 # Rogerio Alves Sobrinho (currículo)
 
-<img src="https://media.licdn.com/dms/image/C4D03AQF7bSEZhyxXzg/profile-displayphoto-shrink_200_200/0?e=1539820800&v=beta&t=nbj1ZCVF5cOJjimXv_WblNguH_d7a7p0EOCQ0vzpyUE" />
-
 Local: São Paulo - SP - Brasil | Idade: 23 anos
 
 Completamente viciado e apaixonado por códigos. Comecei a desenvolver sites e sistemas em 2013 e não consegui mais parar.
@@ -12,7 +10,9 @@ Sou proficiente nas técnologias de Desenvolvimento Web, como HTML5, CSS3, JavaS
 Atualmente trabalho na [HR Tech Automação Comercial](http://hrtech.com.br "Link") e em alguns projetos pessoais no meu tempo livre.
 
 Site: [https://rogeriosobrinho.com](https://rogeriosobrinho.com "Portfolio e Apresentação")  
+
 github: [https://github.com/rogeriosobrinho](https://github.com/rogeriosobrinho "pessoal")
+
 linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.com/in/rogerio-sobrinho "Meu Linkedin")
 
 ## Conhecimentos
