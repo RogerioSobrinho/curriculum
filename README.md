@@ -36,7 +36,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * HTML5/CSS3
 * Pré-processadores (Sass, Less, Stylus)
 * Responsive Design
-* Automatizadores (Grunt, Gulp)
 * jQuery
 * Selenium (C#)
 * SpecFlow
