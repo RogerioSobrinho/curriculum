@@ -46,7 +46,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * MSSQL Server
 * MongoDB
 
-**Infra**
+**Infra:**
 * Apache/Nginx
 * Docker
 * Heroku
@@ -55,7 +55,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * IIS
 * Ambiente Linux
 
-**Idiomas**
+**Idiomas:**
 * Inglês suficiente para ler e entender
 
 **Outros:**
