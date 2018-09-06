@@ -1,4 +1,3 @@
---- 
 # Rogerio Alves Sobrinho
 
 Local: São Paulo - SP - Brasil | Idade: 23 anos
@@ -143,6 +142,3 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * 4451 - Linux Security Sysadmin in cloud (4Linux)  
 * 4452 - Linux Security Servers in cloud (4Linux)  
 * Licença 583013 - Scrum Fundamentals Certified (SCRUMstudy)  
- 
-
---- 
