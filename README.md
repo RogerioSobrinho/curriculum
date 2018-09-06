@@ -120,6 +120,19 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   
   #### Principais tecnologias:
   C#, VFP, JAVA EE e SQL Server 2014
+ 
+### Técnico de Suporte - Júnior
+* **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
+  Atendimento de chamados nível 01 de suporte aos sistemas ERP da empresa;  
+  Solucionar chamados de usuários por telefone e acesso remoto, resolvendo duvidas sobre sistemas e sua
+  utilização;  
+  Repassar aos usuários orientações iniciais para resolução de problemas;  
+  Assegurar o registro detalhado das chamadas dos clientes, incluindo a correta classificação do nível de
+  criticidade, sistema e tipo de atendimento, por meio do portal de atendimento;  
+  Escalonar duvidas dos usuários sobre a utilização do sistema para suporte em nível 02, quando chamado
+  demandar avaliação mais aprofundada;  
+  Instalar e manter sistemas ERP;  
+
   
 ## Formação e Cursos
 
