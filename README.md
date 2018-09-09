@@ -30,7 +30,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * React Native
 * Redux
 * Webpack
-* Angular (>=4)
+* Angular 2
 * Testes de software
 * HTML5/CSS3
 * Bootstrap
