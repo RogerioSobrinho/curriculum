@@ -43,7 +43,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
-* Selenium (C#)
+* Selenium
 * SpecFlow
 * Sistema de Controle de versão *(Git, SVN)*
 * Conhecimento em SEO
