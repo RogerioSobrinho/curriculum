@@ -26,8 +26,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Angular 2 (1 ano)
 * HTML5/CSS3
 * Bootstrap
-* Selenium (C#)
-* SpecFlow
 
 **Banco de Dados:**
 * MySQL (MariaDB)
@@ -48,6 +46,8 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
+* Selenium (C#)
+* SpecFlow
 * Sistema de Controle de versão *(Git, SVN)*
 * Conhecimento em SEO
 * Conhecimento em Design e Arquitetura de Software
