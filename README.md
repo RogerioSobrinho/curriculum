@@ -63,7 +63,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 ## Experiência Profissional 
 
 ### Programador Web
-### Dezembro de 2017 - Atual
+##### Dezembro de 2017 - Atual
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Integrações entre ERP x Ecommerce (Jobs SQL e Web Services);  
   Desenvolvimento de APIs RESTful;  
@@ -79,7 +79,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   C#, Javascript, Angular 2, VueJS, ReactJS, HTML5, CSS3, MSSQL Server, GIT (TFS e GitHub), SVN, MongoDB, Frameworks MVC (Spring) e Selenium
   
 ### Desenvolvedor - Nível 2
-### Junho de 2016 - Dezembro de 2017
+##### Junho de 2016 - Dezembro de 2017
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Desenvolvimento e Manutenção dos módulos do Sistema ERP (Financeiro, Contábil, Sped, Cadastros,
   Relatórios e Integrações);  
@@ -94,7 +94,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   C#, VFP, JAVA EE, Selenium, SpecFlow, SQL Server e MySQL
   
 ### Desenvolvedor - Nível 1
-### Setembro de 2015 - Junho de 2016
+##### Setembro de 2015 - Junho de 2016
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Desenvolvimento e Manutenção dos módulos do Sistema ERP;  
   (Financeiro, Contábil, Sped, WMS, Cadastros, Relatórios e Integrações);  
@@ -107,7 +107,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   C#, VFP, JAVA EE e SQL Server 2014
  
 ### Técnico de Suporte - Júnior 
-### Fevereiro de 2015 - Setembro de 2015
+##### Fevereiro de 2015 - Setembro de 2015
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Atendimento de chamados nível 01 de suporte aos sistemas ERP da empresa;  
   Solucionar chamados de usuários por telefone e acesso remoto, resolvendo dúvidas sobre sistemas e sua
