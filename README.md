@@ -16,30 +16,19 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 ## Conhecimentos
 
 **BackEnd:**
-* C# (Foco em .NET Core)
-* JavaScript (ES5 e ES6)
-* NodeJS
-* Express
-* Java 8
-* Programação Orientada à Objeto
-* Testes de software (TDD)
+* C# (4 anos)
+* JavaScript (3 anos)
+* Java 8 (3 anos)
 
 **FrontEnd:**
-* JavaScript (ES5 e ES6)
-* ReactJS
-* React Native
-* Redux
-* Webpack
-* Angular 2
-* Testes de software
+* JavaScript (3 anos)
+* ReactJS + Redux (1 ano)
+* React Native (1 ano)
+* Angular 2 (1 ano)
 * HTML5/CSS3
 * Bootstrap
-* Pré-processadores (Sass, Less, Stylus)
-* Responsive Design
-* jQuery
 * Selenium (C#)
 * SpecFlow
-* Performance web
 
 **Banco de Dados:**
 * MySQL (MariaDB)
@@ -75,29 +64,29 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 ## Experiência Profissional 
 
 ### Programador Web
+### Dezembro de 2017 - Atual
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Integrações entre ERP x Ecommerce (Jobs SQL e Web Services);  
   Desenvolvimento de Web Services, APIs RESTful e SOAP;  
   Manutenção e Desenvolvimento de Ecommerce (Google Analytics, Alterações de Layout, 
   Correção de Rotinas e Desenvolvimento de novas Funcionalidades Ex: Lista de Noivas, Chá, etc..);  
-  Desenvolvimento de Sites e Portais (Back-end e Front-end) (Responsivo, Dinâmico e com foco em alta
-  performance);  
+  Desenvolvimento de Portais para produtos internos da empresa (Back-end e Front-end) (Responsivos e Dinâmicos);  
   GIT (TFS e GitHub);  
   Frameworks MVC (Spring);  
   Análise de requisitos;  
   Testes unitários e automatizados (TDD) (Cenários de fluxos alternativos/erros funcionais e não-funcionais);  
-  Application Servers (Tomcat, Jboss e IIS);  
+  Application Servers (Tomcat, Nginx e IIS);  
   Ambiente Linux;  
   
   #### Principais tecnologias:
-  C#, Java, Javascript, Angular 4, JQuery, VueJS, ReactJS, HTML5, CSS3, MSSQL Server, MongoDB e Selenium
+  C#, Javascript, Angular 2, VueJS, ReactJS, HTML5, CSS3, MSSQL Server, MongoDB e Selenium
   
 ### Desenvolvedor - Nível 2
+### Junho de 2016 - Dezembro de 2017
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Desenvolvimento e Manutenção dos módulos do Sistema ERP (Financeiro, Contábil, Sped, Cadastros,
   Relatórios e Integrações);  
-  Manutenção de Aplicativos Mobile (IOS e Android);  
-  Criação, Administração de Bases de Dados e suas Tabelas com SQL Server;  
+  Manutenção de Aplicativos Mobile (IOS e Android - Xamarin e Android Studio);  
   Criação e Manipulação de DLL’s;  
   Desenvolvimento e Consumo de WebService (RESTFULL);  
   Análise de Consistência de Dados e Geração de Relatórios com SQL Server;  
@@ -105,22 +94,23 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   Testes Automatizado;  
   
   #### Principais tecnologias:
-  C#, VFP, JAVA EE, HTML, CSS, Selenium, SpecFlow, SQL Server e MySQL
+  C#, VFP, JAVA EE, Selenium, SpecFlow, SQL Server e MySQL
   
 ### Desenvolvedor - Nível 1
+### Setembro de 2015 - Junho de 2016
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Desenvolvimento e Manutenção dos módulos do Sistema ERP;  
   (Financeiro, Contábil, Sped, WMS, Cadastros, Relatórios e Integrações);  
   Desenvolvimento e Consumo de WebService (RESTFULL);  
   Análise de Consistência de Dados com SQL Server;  
   Documentação de Rotinas de Testes;  
-  Testes Automatizado;  
   Testes Funcionais;  
   
   #### Principais tecnologias:
   C#, VFP, JAVA EE e SQL Server 2014
  
-### Técnico de Suporte - Júnior
+### Técnico de Suporte - Júnior 
+### Fevereiro de 2015 - Setembro de 2015
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Atendimento de chamados nível 01 de suporte aos sistemas ERP da empresa;  
   Solucionar chamados de usuários por telefone e acesso remoto, resolvendo dúvidas sobre sistemas e sua
