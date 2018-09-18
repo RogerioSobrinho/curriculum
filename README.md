@@ -51,10 +51,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Kanban
 * Gestores de Pacotes (Yarn e NPM)
 
-**Experiências em outras linguagens:**
-* Pequenos projetos com Ruby
-* Pequenos projetos com Python
-
 ## Experiência Profissional 
 
 ### Programador Web
