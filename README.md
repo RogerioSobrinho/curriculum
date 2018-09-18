@@ -1,6 +1,6 @@
 # Rogerio Alves Sobrinho
 
-Local: São Paulo - SP - Brasil | Idade: 23 anos
+Local: Zona Sul - São Paulo - SP - Brasil | Idade: 23 anos
 
 Completamente viciado e apaixonado por códigos. Comecei a desenvolver sites e sistemas em 2013 e não consegui mais parar.
 Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a internet.
