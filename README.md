@@ -35,9 +35,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 **Infra:**
 * Apache/Nginx
 * Docker
-* Heroku
-* Tomcat
-* Jboss 
 * IIS
 * Ambiente Linux
 
@@ -51,8 +48,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Sistema de Controle de versão *(Git, SVN)*
 * Conhecimento em SEO
 * Conhecimento em Design e Arquitetura de Software
-* Base de UX/UI.
-* Scrum
 * Kanban
 * Gestores de Pacotes (Yarn e NPM)
 
