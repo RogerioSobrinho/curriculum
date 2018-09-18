@@ -62,9 +62,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   Correção de Rotinas e Desenvolvimento de novas Funcionalidades Ex: Lista de Noivas, Chá, etc..);  
   Desenvolvimento de Portais para produtos internos da empresa (Back-end e Front-end) (Responsivos e Dinâmicos);  
   Análise de requisitos;  
-  Testes unitários e automatizados (TDD) (Cenários de fluxos alternativos/erros funcionais e não-funcionais);  
-  Application Servers (Tomcat, Nginx e IIS);  
-  Ambiente Linux;  
+  Testes unitários e automatizados (TDD) (Cenários de fluxos alternativos/erros funcionais e não-funcionais);    
   
   #### Principais tecnologias:
   C#, Javascript, Angular 2, VueJS, ReactJS, HTML5, CSS3, MSSQL Server, GIT (TFS e GitHub), SVN, MongoDB, Frameworks MVC (Spring) e Selenium
