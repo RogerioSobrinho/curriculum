@@ -23,7 +23,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 **FrontEnd:**
 * JavaScript (3 anos)
 * ReactJS + Redux (1 ano)
-* React Native (1 ano)
 * Angular 2 (1 ano)
 * HTML5/CSS3
 * Bootstrap
@@ -67,7 +66,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 ### Dezembro de 2017 - Atual
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Integrações entre ERP x Ecommerce (Jobs SQL e Web Services);  
-  Desenvolvimento de Web Services, APIs RESTful e SOAP;  
+  Desenvolvimento de APIs RESTful;  
   Manutenção e Desenvolvimento de Ecommerce (Google Analytics, Alterações de Layout, 
   Correção de Rotinas e Desenvolvimento de novas Funcionalidades Ex: Lista de Noivas, Chá, etc..);  
   Desenvolvimento de Portais para produtos internos da empresa (Back-end e Front-end) (Responsivos e Dinâmicos);  
