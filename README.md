@@ -108,7 +108,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   demandar avaliação mais aprofundada;  
   Instalar e manter sistemas ERP;  
   
-### Projetos
+## Projetos
 #### Portal HR Tech: 
 Um projeto 100% ReactJS (utilizando Redux para gerir alguns states) e Express (API). Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde janeiro de 2018. 
 #### Site HR Tech: 
