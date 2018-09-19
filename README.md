@@ -107,6 +107,18 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   Escalonar dúvidas dos usuários sobre a utilização do sistema para suporte em nível 02, quando chamado
   demandar avaliação mais aprofundada;  
   Instalar e manter sistemas ERP;  
+  
+### Projetos
+#### Portal HR Tech: 
+Um projeto 100% ReactJS (utilizando Redux para gerir alguns states) e Express (API). Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde janeiro de 2018. 
+#### Site HR Tech: 
+Um projeto angular 1 reescrito em ReactJS consumindo API .Net Core.  Seguindo Layout conforme modelo preparado pela empresa.
+#### Ecommerce Preçolandia: 
+Participei deste projeto provendo soluções para integrações (ERP), layout (Mobile), criação de novas funcionalidades (Lista de noivas, Busca por Relevância, Filtros, Departamentos e Manutenção de Procedures).
+Também provendo soluções SEO (Google Analytics, Pixel Facebook, Google Search e URI’s)
+#### HR Tech: 
+Outros pequenos projetos com React Native, Angular 2 e Docker.
+
 
   
 ## Formação e Cursos
