@@ -1,13 +1,10 @@
 # Rogerio Alves Sobrinho
 
-Local: Zona Sul - São Paulo - SP - Brasil | Idade: 23 anos
+Local: Zona Sul - São Paulo - SP - Brasil | Idade: 24 anos
 
-Completamente viciado e apaixonado por códigos. Comecei a desenvolver sites e sistemas em 2013 e não consegui mais parar.
-Gosto muito do que faço e não me vejo fazendo outra coisa que não esteja relacionado com a internet.
+Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, ECMAScript6, Typescript, Java, API RESTFul, React, Angular 5+, MongoDB, MySQL e MSSQL. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do setor.
 
-Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, C#, Java, React, Angular, MySQL e MS SQL Server. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do setor.
-
-Atualmente trabalho na [HR Tech Automação Comercial](http://hrtech.com.br "Link") e em alguns projetos pessoais no meu tempo livre.
+Atualmente trabalho na [Accenture](https://www.accenture.com/br-pt "Link") e em alguns projetos pessoais no meu tempo livre.
 
 Site: [https://rogeriosobrinho.com](https://rogeriosobrinho.com "Portfolio e Apresentação")  
 github: [https://github.com/rogeriosobrinho](https://github.com/rogeriosobrinho "pessoal")  
