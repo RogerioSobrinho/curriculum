@@ -51,6 +51,8 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 **Outros:**
 * Padrões de Projeto *(Modelo MVC)*
 * Selenium
+* Sequelize
+* Mongoose
 * SpecFlow
 * Sistema de Controle de versão *(Git, SVN)*
 * GitLab
