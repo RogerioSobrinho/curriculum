@@ -19,6 +19,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * JUnit
 * Jest
 * SuperTest
+* Mocha
 
 **FrontEnd:**
 * JavaScript (4 anos)
@@ -75,7 +76,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   Testes unitários e automatizados (TDD) (Cenários de fluxos alternativos/erros funcionais e não-funcionais);    
   
   #### Principais tecnologias:
-  C#, Javascript, Angular 2, VueJS, ReactJS, HTML5, CSS3, MSSQL Server, GIT (TFS e GitHub), SVN, MongoDB, Frameworks MVC (Spring) e Selenium
+  C#, Javascript, Angular 4+, VueJS, ReactJS, HTML5, CSS3, MSSQL Server, GIT (TFS e GitHub), SVN, MongoDB, Frameworks MVC (Spring) e Selenium
   
 ### Desenvolvedor - Nível 2
 ##### Junho de 2016 - Dezembro de 2017
