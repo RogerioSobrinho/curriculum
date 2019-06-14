@@ -66,7 +66,8 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 ### Application Development Analyst
 ##### Outubro de 2018 - Atualmente
-* **Accenture** ([link](https://www.accenture.com/br-pt "Accenture")) 
+* **Accenture** ([link](https://www.accenture.com/br-pt "Accenture"))
+
   **FullStack NodeJs**
   
   #### Principais tecnologias:
