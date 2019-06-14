@@ -66,9 +66,8 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 ### Application Development Analyst
 ##### Outubro de 2018 - Atualmente
-* **Accenture** ([link](https://www.accenture.com/br-pt "Accenture"))
-  ***Santander***
-  ***FullStack NodeJs***
+* **Accenture** ([link](https://www.accenture.com/br-pt "Accenture")) 
+  **FullStack NodeJs**
   
   #### Principais tecnologias:
   Java 8, ECMAScript6, Typescript, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine,     Docker e Jenkins
