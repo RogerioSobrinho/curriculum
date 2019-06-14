@@ -2,7 +2,7 @@
 
 Local: Zona Sul - São Paulo - SP - Brasil | Idade: 24 anos
 
-Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, ECMAScript6, Typescript, Java, API RESTFul, React, Angular 5+, MongoDB, MySQL e MSSQL. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do setor.
+Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, ECMAScript6, Typescript, Java, API RESTFul, React, Angular 5+, MongoDB, MySQL e MSSQL. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do mercado.
 
 Atualmente trabalho na [Accenture](https://www.accenture.com/br-pt "Link") e em alguns projetos pessoais no meu tempo livre.
 
