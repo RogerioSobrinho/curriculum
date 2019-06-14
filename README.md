@@ -64,6 +64,15 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 ## Experiência Profissional 
 
+### Application Development Analyst
+##### Outubro de 2018 - Atualmente
+* **Accenture** ([link](https://www.accenture.com/br-pt "Accenture"))
+  ***Santander***
+  ***FullStack NodeJs***
+  
+  #### Principais tecnologias:
+  Java 8, ECMAScript6, Typescript, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine,     Docker e Jenkins
+
 ### Programador Web
 ##### Dezembro de 2017 - Outubro de 2018
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
