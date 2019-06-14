@@ -14,25 +14,35 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
 **BackEnd:**
 * C# (4 anos)
-* JavaScript (3 anos)
+* ECMAScript6 (4 anos)
+* Typescript (4 anos)
 * Java 8 (3 anos)
+* JUnit
+* Jest
+* SuperTest
 
 **FrontEnd:**
-* JavaScript (3 anos)
-* ReactJS + Redux (1 ano)
-* Angular 2 (1 ano)
+* JavaScript (4 anos)
+* ReactJS (1 ano)
+* Angular 5+ (2 ano)
 * HTML5/CSS3
 * Bootstrap
+* Material Design
+* D3
+* Karma + Jasmine
 
 **Banco de Dados:**
 * MySQL (MariaDB)
-* MSSQL Server
+* MSSQL
 * MongoDB
 
 **Infra:**
 * Apache/Nginx
 * Docker
 * IIS
+* Jenkins (Freestyle)
+* Docker Jenkins
+* PAAS
 * Ambiente Linux
 
 **Idiomas:**
@@ -43,15 +53,17 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Selenium
 * SpecFlow
 * Sistema de Controle de versão *(Git, SVN)*
+* GitLab
 * Conhecimento em SEO
 * Conhecimento em Design e Arquitetura de Software
 * Kanban
+* Scrum
 * Gestores de Pacotes (Yarn e NPM)
 
 ## Experiência Profissional 
 
 ### Programador Web
-##### Dezembro de 2017 - Atual
+##### Dezembro de 2017 - Outubro de 2018
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
   Integrações entre ERP x Ecommerce (Jobs SQL e Web Services);  
   Desenvolvimento de APIs RESTful;  
@@ -114,13 +126,13 @@ Um projeto angular 1 reescrito em ReactJS consumindo API .Net Core.  Seguindo La
 Participei deste projeto provendo soluções para integrações (ERP), layout (Mobile), criação de novas funcionalidades (Lista de noivas, Busca por Relevância, Filtros, Departamentos e Manutenção de Procedures).
 Também provendo soluções SEO (Google Analytics, Pixel Facebook, Google Search e URI’s)
 #### HR Tech: 
-Outros pequenos projetos com React Native, Angular 2 e Docker.
+Outros pequenos projetos com React Native, Angular 5+ e Docker.
 
 
   
 ## Formação e Cursos
 
-* Análise e Desenvolvimento de Sistemas pelo (SENAC)(2019)  
+* Análise e Desenvolvimento de Sistemas pelo (SENAC)(2020)  
 * Técnico em Informática (SENAC)  
 * 4450 - Linux Fundamentals in cloud (4Linux)  
 * 4449 - Linux Beginners in cloud (4Linux)  
