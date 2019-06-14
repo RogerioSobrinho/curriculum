@@ -13,7 +13,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 ## Conhecimentos
 
 **BackEnd:**
-* C# (4 anos)
 * ECMAScript6 (4 anos)
 * Typescript (4 anos)
 * Java 8 (3 anos)
