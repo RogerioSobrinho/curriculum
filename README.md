@@ -2,34 +2,37 @@
 
 Local: Zona Sul - São Paulo - SP - Brasil | Idade: 24 anos
 
-Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, ECMAScript6, Typescript, Java, API RESTFul, React, Angular 5+, MongoDB, MySQL e MSSQL. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do mercado.
+Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, ES6+, TS, API RESTFul, React, Angular 2+, MongoDB e MySQL. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do mercado.
 
 Atualmente trabalho na [Accenture](https://www.accenture.com/br-pt "Link") e em alguns projetos pessoais no meu tempo livre.
 
-Site: [https://rogeriosobrinho.com](https://rogeriosobrinho.com "Portfolio e Apresentação")  
-github: [https://github.com/rogeriosobrinho](https://github.com/rogeriosobrinho "pessoal")  
+github: [https://github.com/rogeriosobrinho](https://github.com/rogeriosobrinho "github")  
 linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.com/in/rogerio-sobrinho "Meu Linkedin")  
 
 ## Conhecimentos
 
 **BackEnd:**
-* ECMAScript6 (4 anos)
-* Typescript (4 anos)
-* Java 8 (3 anos)
-* JUnit
+* Node8+
+* Express
+* Sequelize
+* Mongoose
+* NestJS
+* TypeORM
+* ES6+ (3 anos)
+* Typescript (3 anos)
 * Jest
 * SuperTest
-* Mocha
 
 **FrontEnd:**
-* JavaScript (4 anos)
-* ReactJS (1 ano)
-* Angular 5+ (2 ano)
+* JS6+ (3 anos)
+* ReactJS (2 ano)
+* Angular2+ (2 ano)
 * HTML5/CSS3
 * Bootstrap
 * Material Design
 * D3
-* Karma + Jasmine
+* Karma
+* Jasmine
 
 **Banco de Dados:**
 * MySQL (MariaDB)
@@ -43,21 +46,17 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Jenkins (Freestyle)
 * Docker Jenkins
 * PAAS
-* Ambiente Linux
+* Ambientes Linux e Mac
 
 **Idiomas:**
 * Inglês suficiente para ler e entender
 
 **Outros:**
-* Padrões de Projeto *(Modelo MVC)*
+* Design Pattern (GOF)
 * Selenium
-* Sequelize
-* Mongoose
-* SpecFlow
 * Sistema de Controle de versão *(Git, SVN)*
 * GitLab
 * Conhecimento em SEO
-* Conhecimento em Design e Arquitetura de Software
 * Kanban
 * Scrum
 * Gestores de Pacotes (Yarn e NPM)
@@ -70,8 +69,10 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
   **FullStack NodeJs**
   
+  Atualmente atuando em projetos no banco Santander
+  
   #### Principais tecnologias:
-  Java 8, ECMAScript6, Typescript, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine,     Docker e Jenkins
+  Java 8, Node8+, NestJS, Express, Sequelize, TypeORM, ES6+, TS, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine, Docker e Jenkins
 
 ### Programador Web
 ##### Dezembro de 2017 - Outubro de 2018
@@ -137,7 +138,7 @@ Um projeto angular 1 reescrito em ReactJS consumindo API .Net Core.  Seguindo La
 Participei deste projeto provendo soluções para integrações (ERP), layout (Mobile), criação de novas funcionalidades (Lista de noivas, Busca por Relevância, Filtros, Departamentos e Manutenção de Procedures).
 Também provendo soluções SEO (Google Analytics, Pixel Facebook, Google Search e URI’s)
 #### Outros: 
-Pequenos projetos com React Native e Angular 5+.
+Pequenos projetos com React Native, Flutter e Angular 5+.
 
 
   
