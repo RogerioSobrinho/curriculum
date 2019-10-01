@@ -69,7 +69,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
   **FullStack NodeJs**
   
-  Atualmente atuando em projetos no banco Santander
+  Atuando com alguns projetos em uma grande instituição financeira
   
   #### Principais tecnologias:
   Java 8, Node8+, NestJS, Express, Sequelize, TypeORM, ES6+, TS, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine, Docker e Jenkins
