@@ -34,7 +34,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Karma
 * Jasmine
 
-** Mobile **
+**Mobile**
 * Flutter
 
 **Banco de Dados:**
