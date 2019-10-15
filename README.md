@@ -34,7 +34,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * Karma
 * Jasmine
 
-**Mobile**
+**Mobile:**
 * Flutter
 
 **Banco de Dados:**
@@ -45,10 +45,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 **Infra:**
 * Apache/Nginx
 * Docker
-* IIS
-* Jenkins (Freestyle)
-* Docker Jenkins
-* PAAS
+* Jenkins
 * Ambientes Linux e Mac
 
 **Idiomas:**
@@ -57,12 +54,8 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 **Outros:**
 * Design Pattern (GOF)
 * Selenium
-* Sistema de Controle de versão *(Git, SVN)*
-* GitLab
 * Conhecimento em SEO
-* Kanban
 * Scrum
-* Gestores de Pacotes (Yarn e NPM)
 
 ## Experiência Profissional 
 
@@ -89,17 +82,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   
   #### Principais tecnologias:
   C#, Javascript, Angular 4+, ReactJS, HTML5, CSS3, MSSQL Server, GIT (TFS e GitHub), MongoDB, Frameworks MVC (Spring) e Selenium
-  
-## Projetos na HR Tech
-#### Portal: 
-Um projeto 100% ReactJS + Redux e Express (Node). Projeto iniciado do zero por mim, focado em qualidade, com testes de software e em constante evolução desde janeiro de 2018. 
-#### Site: 
-Um projeto angular 1 reescrito em ReactJS consumindo API .Net Core.  Seguindo Layout conforme modelo preparado pela empresa.
-#### Ecommerce (Preçolandia): 
-Participei deste projeto provendo soluções para integrações (ERP), layout (Mobile), criação de novas funcionalidades (Lista de noivas, Busca por Relevância, Filtros, Departamentos e Manutenção de Procedures).
-Também provendo soluções SEO (Google Analytics, Pixel Facebook, Google Search e URI’s)
-#### Outros: 
-Pequenos projetos com React Native, Flutter e Angular 5+.
   
 ## Formação e Cursos
 
