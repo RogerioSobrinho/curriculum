@@ -52,8 +52,11 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 * **Accenture** ([link](https://www.accenture.com/br-pt "Accenture"))
 
   **FullStack NodeJs**
-  
-  Atuando com alguns projetos em uma grande instituição financeira
+
+  Atuando em uma grande instituição financeira como Full Stack em um projeto de métricas desenvolvido em Angular 7 com diversos módulos separados por lib.
+  Nossos clientes (responsável pela utilização dos módulos) são os gestores direto de cada área, onde nós provemos dados e informações para tomadas de decisões sobre as tecnologias ao qual cada gestor é responsável.
+  Esse sistema é integrado com diversas outras frentes, por exemplo o SN (Service now), Incident Manager, Data Lake, entre outros.
+  Neste projeto, além de atuar como Dev, também participo ativamente do processo de seleção de novos colaboradores e desenhos da solução de arquitetura.
   
   #### Principais tecnologias:
   Java 8, Node8+, NestJS, Express, Sequelize, TypeORM, ES6+, TS, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine, Docker e Jenkins
