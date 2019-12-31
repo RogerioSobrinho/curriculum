@@ -53,7 +53,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 
   **FullStack NodeJs**
 
-  Atuando em uma grande instituição financeira como Full Stack em um projeto de métricas desenvolvido em Angular 7 com diversos módulos separados por lib.
+  Atuando em uma grande instituição financeira como Full Stack em um projeto de métricas com diversos módulos.
   Nossos clientes (responsável pela utilização dos módulos) são os gestores direto de cada área, onde nós provemos dados e informações para tomadas de decisões sobre as tecnologias ao qual cada gestor é responsável.
   Esse sistema é integrado com diversas outras frentes, por exemplo o SN (Service now), Incident Manager, Data Lake, entre outros.
   Neste projeto, além de atuar como Dev, também participo ativamente do processo de seleção de novos colaboradores e desenhos da solução de arquitetura.
