@@ -1,8 +1,6 @@
 # Rogerio Alves Sobrinho
 
-Local: Zona Sul - São Paulo - SP - Brasil | Idade: 24 anos
-
-Sou proficiente nas tecnologias de Desenvolvimento Web, como HTML5, CSS3, JavaScript, ES6+, TS, API RESTFul, React, Angular 2+, MongoDB e MySQL. No meu tempo livre, gosto de continuar desenvolvendo minhas habilidades e estudando os avanços das principais tendências do mercado.
+Local: Zona Sul - São Paulo - SP - Brasil | Idade: 25 anos
 
 Atualmente trabalho na [Accenture](https://www.accenture.com/br-pt "Link") e em alguns projetos pessoais no meu tempo livre.
 
@@ -12,19 +10,15 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 ## Conhecimentos
 
 **BackEnd:**
-* Node8+
+* Node6+
 * Express
+* NestJS
 * Sequelize
 * Mongoose
-* NestJS
 * TypeORM
-* ES6+ (3 anos)
-* Typescript (3 anos)
 * Jest
-* SuperTest
 
 **FrontEnd:**
-* JS6+ (3 anos)
 * ReactJS (2 ano)
 * Angular2+ (2 ano)
 * HTML5/CSS3
@@ -51,12 +45,6 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
 **Idiomas:**
 * Inglês suficiente para ler e entender
 
-**Outros:**
-* Design Pattern (GOF)
-* Selenium
-* Conhecimento em SEO
-* Scrum
-
 ## Experiência Profissional 
 
 ### Application Development Analyst
@@ -70,14 +58,13 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   #### Principais tecnologias:
   Java 8, Node8+, NestJS, Express, Sequelize, TypeORM, ES6+, TS, Angular 5+, HTML5, CSS3, MongoDB, MariaDB, MSSQL, Jest, SuperTest, Mocha, Karma, Jasmine, Docker e Jenkins
 
-### Programador Web
+### Desenvolvedor Web
 ##### Fevereiro de 2015 - Outubro de 2018
 * **HR Tech Automação Comercial Ltda** ([link](http://hrtech.com.br "HRTech"))  
-  Integrações entre ERP x Ecommerce (Jobs SQL e Web Services);  
-  Desenvolvimento de APIs RESTful;  
-  Manutenção e Desenvolvimento de Ecommerce (Google Analytics, Alterações de Layout, 
-  Correção de Rotinas e Desenvolvimento de novas Funcionalidades Ex: Lista de Noivas, Chá, etc..);  
-  Desenvolvimento de Portais para produtos internos da empresa (Responsivos e Dinâmicos);  
+  Integrações entre ERP x Ecommerce;  
+  Desenvolvimento de APIs RESTfull;  
+  Manutenção e Desenvolvimento de Ecommerce (Google Analytics, Facebook Pixel e novas funcionalidades Ex: Lista de Noivas, Chá, etc..);  
+  Desenvolvimento de Portais para produtos internos da empresa;  
   Análise de requisitos;
   
   #### Principais tecnologias:
@@ -85,7 +72,7 @@ linkedin: [https://www.linkedin.com/in/rogerio-sobrinho](https://www.linkedin.co
   
 ## Formação e Cursos
 
-* Análise e Desenvolvimento de Sistemas pelo (SENAC)(2020)  
+* Análise e Desenvolvimento de Sistemas pelo (SENAC)(Incompleto)  
 * Técnico em Informática (SENAC)  
 * 4450 - Linux Fundamentals in cloud (4Linux)  
 * 4449 - Linux Beginners in cloud (4Linux)  
